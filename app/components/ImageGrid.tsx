@@ -122,7 +122,7 @@ export default function ImageGrid({ initialImages }: ImageGridProps) {
                 <InstagramCameraIcon />
               </div>
               <p className={styles.footerText}>
-                Log in to see photos and videos from friends and discover other accounts you'll love.
+                Log in to see photos and videos from friends and discover other accounts you&apos;ll love.
               </p>
             </div>
             <div className={styles.footerButtons}>
